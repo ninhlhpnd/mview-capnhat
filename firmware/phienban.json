@@ -145,13 +145,13 @@
                                      "kichThuoc":  648112
                                  },
                     "Temp":  {
-                                 "phienBan":  1,
-                                 "ngay":  "09/11/2026",
-                                 "ghiChu":  "Ban dau tien tren may chu (esp32-singlecore-cbNhietdo-coday-comanhinh-ads)",
+                                 "phienBan":  2,
+                                 "ngay":  "28/11/2026",
+                                 "ghiChu":  "Sua tu tat nguon",
                                  "kieu":  "esp32",
-                                 "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Temp-1.bin",
-                                 "sha256":  "7009706b118a531367fa65666a0c442a7355fb80976aeed8506f592b5bd7fcf0",
-                                 "kichThuoc":  660016
+                                 "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Temp-2.bin",
+                                 "sha256":  "6f3851384cdde8a37fd34097f954bb8d7b85726e8232f4f70c7fda874aa8b83a",
+                                 "kichThuoc":  660144
                              },
                     "PH":  {
                                "phienBan":  1,
