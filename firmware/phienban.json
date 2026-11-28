@@ -28,157 +28,157 @@
                                     "kichThuoc":  659520
                                 },
                     "Light":  {
-                                  "phienBan":  1,
-                                  "ngay":  "09/11/2026",
-                                  "ghiChu":  "Ban dau tien tren may chu (esp32-singlecore-cbAnhsang-coday-coman)",
+                                  "phienBan":  2,
+                                  "ngay":  "28/11/2026",
+                                  "ghiChu":  "Sua tu tat nguon",
                                   "kieu":  "esp32",
-                                  "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Light-1.bin",
-                                  "sha256":  "86bde1afcc200fd75192af6028b24dd1ee03b9f8d4d814519a9fc33355cb0bfc",
-                                  "kichThuoc":  634912
+                                  "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Light-2.bin",
+                                  "sha256":  "cbff264b8165adf6df88a4db88886d92a6bd561dec77be83343e3900bf3f9908",
+                                  "kichThuoc":  635056
                               },
                     "Pressure":  {
-                                     "phienBan":  1,
-                                     "ngay":  "09/11/2026",
-                                     "ghiChu":  "Ban dau tien tren may chu (esp32-singlecore-cbApsuat-coday-coman)",
+                                     "phienBan":  2,
+                                     "ngay":  "28/11/2026",
+                                     "ghiChu":  "Sua tu tat nguon",
                                      "kieu":  "esp32",
-                                     "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Pressure-1.bin",
-                                     "sha256":  "227386db9245d58da290dd654761ab1799d348ec38548286c926d648a1c6beda",
-                                     "kichThuoc":  653168
+                                     "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Pressure-2.bin",
+                                     "sha256":  "78c83e11e779dc51b49780dd6a0c4709864e5b8389f0945df2efb47080f4bca5",
+                                     "kichThuoc":  653248
                                  },
                     "CO2\u0026ENV":  {
-                                         "phienBan":  1,
-                                         "ngay":  "09/11/2026",
-                                         "ghiChu":  "Ban dau tien tren may chu (esp32-singlecore-cbCO2-BME280-coday-coman)",
+                                         "phienBan":  2,
+                                         "ngay":  "28/11/2026",
+                                         "ghiChu":  "Sua tu tat nguon",
                                          "kieu":  "esp32",
-                                         "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/CO2_ENV-1.bin",
-                                         "sha256":  "ce861e793dcb815034a6f82964137a4abefd7619c8af3d2704baf7daed6bf39f",
-                                         "kichThuoc":  664528
+                                         "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/CO2_ENV-2.bin",
+                                         "sha256":  "9dca97197397f5348d50b8a8812243e5b38280de589d4beb260bdd63bcb86d76",
+                                         "kichThuoc":  664688
                                      },
                     "CO2":  {
-                                "phienBan":  1,
-                                "ngay":  "09/11/2026",
-                                "ghiChu":  "Ban dau tien tren may chu (esp32-singlecore-cbCO2-coday-coman)",
+                                "phienBan":  2,
+                                "ngay":  "28/11/2026",
+                                "ghiChu":  "Sua tu tat nguon",
                                 "kieu":  "esp32",
-                                "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/CO2-1.bin",
-                                "sha256":  "9e2de58cf451e6d04f4402404f07f5d5db3a6a2993ca328cb054be077d7df48e",
-                                "kichThuoc":  651952
+                                "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/CO2-2.bin",
+                                "sha256":  "ef8481fc1597ffc6415af3166eb6578027bf67e007c7b5820f342efdc798b3ff",
+                                "kichThuoc":  652112
                             },
                     "DissolveOxy":  {
-                                        "phienBan":  1,
-                                        "ngay":  "09/11/2026",
-                                        "ghiChu":  "Ban dau tien tren may chu (esp32-singlecore-cbDO-coday-coman)",
+                                        "phienBan":  2,
+                                        "ngay":  "28/11/2026",
+                                        "ghiChu":  "Sua tu tat nguon",
                                         "kieu":  "esp32",
-                                        "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/DissolveOxy-1.bin",
-                                        "sha256":  "6a0a52a03efaa481276555d328b8756349a9c61254a90804774a943fa9f33bfd",
-                                        "kichThuoc":  651520
+                                        "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/DissolveOxy-2.bin",
+                                        "sha256":  "d985532f7144aefc3e2d4af245a300a7eb217340281c02d25a5f242fd8599f4f",
+                                        "kichThuoc":  652656
                                     },
                     "Humid":  {
-                                  "phienBan":  1,
-                                  "ngay":  "09/11/2026",
-                                  "ghiChu":  "Ban dau tien tren may chu (esp32-singlecore-cbDoam-coday-coman)",
+                                  "phienBan":  2,
+                                  "ngay":  "28/11/2026",
+                                  "ghiChu":  "Sua tu tat nguon",
                                   "kieu":  "esp32",
-                                  "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Humid-1.bin",
-                                  "sha256":  "0c6a2b4933fc44ba0533d4fe03cfa1d49fe10a9cd5309f21fd595c2cd179f8f0",
-                                  "kichThuoc":  652672
+                                  "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Humid-2.bin",
+                                  "sha256":  "c423f4aac5a715ac3dc93ad6078a6fce1a81d2e11115e9255b4557deef4b2cd4",
+                                  "kichThuoc":  652768
                               },
                     "Conductivity":  {
-                                         "phienBan":  1,
-                                         "ngay":  "09/11/2026",
-                                         "ghiChu":  "Ban dau tien tren may chu (esp32-singlecore-cbDodan-coday-oled-ads)",
+                                         "phienBan":  2,
+                                         "ngay":  "28/11/2026",
+                                         "ghiChu":  "Sua tu tat nguon",
                                          "kieu":  "esp32",
-                                         "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Conductivity-1.bin",
-                                         "sha256":  "36df09fdaf2424204bb1d4b2119c5fd17710ff27bc062b38266ad6a6f3ae3d83",
-                                         "kichThuoc":  653632
+                                         "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Conductivity-2.bin",
+                                         "sha256":  "64c6864469d223f9181371abf78160214066fd8ba65969273c10d22a9b08070f",
+                                         "kichThuoc":  653776
                                      },
                     "Salinity":  {
-                                     "phienBan":  1,
-                                     "ngay":  "09/11/2026",
-                                     "ghiChu":  "Ban dau tien tren may chu (esp32-singlecore-cbDoman-coday-oled-ads)",
+                                     "phienBan":  2,
+                                     "ngay":  "28/11/2026",
+                                     "ghiChu":  "Sua tu tat nguon",
                                      "kieu":  "esp32",
-                                     "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Salinity-1.bin",
-                                     "sha256":  "f67c11963b2a8fea74331030c28442f7eddeec13dd5abf3d9acd0960301b9596",
-                                     "kichThuoc":  653648
+                                     "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Salinity-2.bin",
+                                     "sha256":  "72c79336b23dfdaf0329ab0bf7b8770c4eeb9e2502d5547740dfdfdf01e55b29",
+                                     "kichThuoc":  653776
                                  },
                     "Oxygen\u0026ENV":  {
-                                            "phienBan":  1,
-                                            "ngay":  "09/11/2026",
-                                            "ghiChu":  "Ban dau tien tren may chu (esp32-singlecore-cbMed-O2-BME280-coday-coman)",
+                                            "phienBan":  2,
+                                            "ngay":  "28/11/2026",
+                                            "ghiChu":  "Sua tu tat nguon",
                                             "kieu":  "esp32",
-                                            "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Oxygen_ENV-1.bin",
-                                            "sha256":  "2493b7363faedda779ccf4f56e1f57a745664834dea56e66ecf30c45ed5781f3",
-                                            "kichThuoc":  665472
+                                            "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Oxygen_ENV-2.bin",
+                                            "sha256":  "706b8def508b14d8432870a22eadf49f5737af88c8e8f29d165c3941f108d980",
+                                            "kichThuoc":  665584
                                         },
                     "Force":  {
-                                  "phienBan":  1,
-                                  "ngay":  "09/11/2026",
-                                  "ghiChu":  "Ban dau tien tren may chu (esp32_singlecore-CbLuc-coday-coman)",
+                                  "phienBan":  2,
+                                  "ngay":  "28/11/2026",
+                                  "ghiChu":  "Sua tu tat nguon",
                                   "kieu":  "esp32",
-                                  "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Force-1.bin",
-                                  "sha256":  "f566856f543d22cf75974d2915fc390edb1abf102db178404272b94ea6f187ed",
-                                  "kichThuoc":  661520
+                                  "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Force-2.bin",
+                                  "sha256":  "eebc54dbe72ad04ec69dae4bb431e89d45a577924db947444214dc4b0de46248",
+                                  "kichThuoc":  661616
                               },
                     "Sound":  {
-                                  "phienBan":  1,
-                                  "ngay":  "09/11/2026",
-                                  "ghiChu":  "Ban dau tien tren may chu (esp32_singlecore-cbAmthanh-ICS43434-coman)",
+                                  "phienBan":  2,
+                                  "ngay":  "28/11/2026",
+                                  "ghiChu":  "Sua tu tat nguon",
                                   "kieu":  "esp32",
-                                  "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Sound-1.bin",
-                                  "sha256":  "0f6d7d04224f12dd14138cc47192fcc458c918a0ce52288d48f572687b1d27d8",
-                                  "kichThuoc":  679536
+                                  "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Sound-2.bin",
+                                  "sha256":  "b0b9915a304a7e852ad324e94c6e0284f891adaed6e6db07709f89458ee138b7",
+                                  "kichThuoc":  679680
                               },
                     "P\u0026T":  {
-                                     "phienBan":  1,
-                                     "ngay":  "09/11/2026",
-                                     "ghiChu":  "Ban dau tien tren may chu (esp32_singlecore_cbApSuatNhietdo-oled)",
+                                     "phienBan":  2,
+                                     "ngay":  "28/11/2026",
+                                     "ghiChu":  "Sua tu tat nguon",
                                      "kieu":  "esp32",
-                                     "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/P_T-1.bin",
-                                     "sha256":  "6fcd4bb1923e5ab245b0a37f602e17062230113885e4ac4d8c52c5463787bf0e",
-                                     "kichThuoc":  671520
+                                     "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/P_T-2.bin",
+                                     "sha256":  "c4f8c86be662fdee57508a57b68e4e894df5a5f398920a5c8325b51fb19f89c1",
+                                     "kichThuoc":  671760
                                  },
                     "Distance":  {
-                                     "phienBan":  1,
-                                     "ngay":  "09/11/2026",
-                                     "ghiChu":  "Ban dau tien tren may chu (esp32_singlecore_cbChuyenDong)",
+                                     "phienBan":  2,
+                                     "ngay":  "28/11/2026",
+                                     "ghiChu":  "Sua tu tat nguon",
                                      "kieu":  "esp32",
-                                     "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Distance-1.bin",
-                                     "sha256":  "971f3677803cdb2055e2372dcfc58f589d8a73040bcc6b386cc2d7aeb2d663b8",
-                                     "kichThuoc":  648112
+                                     "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Distance-2.bin",
+                                     "sha256":  "1484b307b1c095b3c8849c55d94caf870b37291660fcc5523467b3b52e79a687",
+                                     "kichThuoc":  640960
                                  },
                     "Temp":  {
-                                 "phienBan":  2,
+                                 "phienBan":  3,
                                  "ngay":  "28/11/2026",
                                  "ghiChu":  "Sua tu tat nguon",
                                  "kieu":  "esp32",
-                                 "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Temp-2.bin",
+                                 "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Temp-3.bin",
                                  "sha256":  "6f3851384cdde8a37fd34097f954bb8d7b85726e8232f4f70c7fda874aa8b83a",
                                  "kichThuoc":  660144
                              },
                     "PH":  {
-                               "phienBan":  1,
-                               "ngay":  "09/11/2026",
-                               "ghiChu":  "Ban dau tien tren may chu (esp32-singlecore-cbpH-coday-oled-ads)",
+                               "phienBan":  2,
+                               "ngay":  "28/11/2026",
+                               "ghiChu":  "Sua tu tat nguon",
                                "kieu":  "esp32",
-                               "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/PH-1.bin",
-                               "sha256":  "2f77f4244146237743fd9c595decdb7ac9cf163d1c75fe7be7c9379b0e8086e5",
-                               "kichThuoc":  659440
+                               "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/PH-2.bin",
+                               "sha256":  "9f36fb61eab597c5549815e6f9a25def6e1cfe42acbaa2437f45e90f0f321b8b",
+                               "kichThuoc":  659584
                            },
                     "Oxygen|Med-O2":  {
-                                          "phienBan":  1,
-                                          "ngay":  "09/11/2026",
-                                          "ghiChu":  "Ban dau tien tren may chu (esp32-singlecore-cbMed-O2-coday-coman)",
+                                          "phienBan":  2,
+                                          "ngay":  "28/11/2026",
+                                          "ghiChu":  "Sua tu tat nguon",
                                           "kieu":  "esp32",
-                                          "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Oxygen_Med_O2-1.bin",
-                                          "sha256":  "871bc904e18431b73e512642be6c83572b014127606d99613c8b0bc6e2892d3f",
-                                          "kichThuoc":  653680
+                                          "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Oxygen_Med_O2-2.bin",
+                                          "sha256":  "2ac78b1bc5666d820e7362a8544df556fe643d9660b9c5597ddb336abbf78f8e",
+                                          "kichThuoc":  653824
                                       },
                     "Oxygen|O2":  {
-                                      "phienBan":  1,
-                                      "ngay":  "09/11/2026",
-                                      "ghiChu":  "Ban dau tien tren may chu (esp32-singlecore-cbO2-coday-coman)",
+                                      "phienBan":  2,
+                                      "ngay":  "28/11/2026",
+                                      "ghiChu":  "Sua tu tat nguon",
                                       "kieu":  "esp32",
-                                      "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Oxygen_O2-1.bin",
-                                      "sha256":  "07b407cfa6db8a69fa5cde9f5d9b4d55b2b74af70042f6af80f91824d910d642",
-                                      "kichThuoc":  651072
+                                      "url":  "https://ninhlhpnd.github.io/mview-capnhat/firmware/Oxygen_O2-2.bin",
+                                      "sha256":  "112aa621f83b81f4969a0c0a64d41ed930b357a1d534d6d33b3bf1e9568c5825",
+                                      "kichThuoc":  651248
                                   }
                 }
 }
